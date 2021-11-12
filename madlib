@@ -1,0 +1,14 @@
+# My first madlib:
+    
+adj = input("Adjective: ")
+adj_2 = input("Adjective: ")
+adj_3 = input("Adjective: ")
+verb = input("Verb: ")
+verb_2 = input("Verb: ")
+verb_3 = input("Verb: ")
+
+madlib = f"Computer programming is so {adj}. If you are {adj_2} to\
+the field, you should {verb} a lot and {verb_2} less. You are {adj_3} and\
+you can {verb_3} it"
+
+print(madlib)

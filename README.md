@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tatiana Obando
 - 👀 I’m interested in learning about programming languages in order to create platforms that will serve a purpose 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and Python 
 - 💞️ I’m looking to collaborate on teams that are also learning coding.
 - 📫 Feel free to reach out at ltatiobandore@gmail.com
 
